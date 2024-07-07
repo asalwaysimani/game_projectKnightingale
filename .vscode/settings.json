@@ -1,0 +1,4 @@
+{
+	"Lua.diagnostics.globals": ["love", "score", "gameFont"],
+	"Lua.diagnostics.disable": ["undefined-global"]
+}
